@@ -11,3 +11,6 @@
 > python -u "directory_name:\PATH_OF_THE_FOLDER\Socket_Programming\sockClient.py"
 
 And that's all.
+
+
+![socket_prog](https://user-images.githubusercontent.com/19478310/135293146-e944af3a-6edd-46f7-a35f-3a995f147382.png)
